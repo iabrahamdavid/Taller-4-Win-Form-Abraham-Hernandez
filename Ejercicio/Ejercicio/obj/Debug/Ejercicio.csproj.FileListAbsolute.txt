@@ -1,0 +1,11 @@
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\EjFormu05.MainForm.resources
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\ak4\Desktop\EjFormu05 (3)\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
